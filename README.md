@@ -1,3 +1,21 @@
+# Netflix Clone with React
+
+![Netflix Clone]()
+
+Demo app simulating Netflix.  Fetches data from TMDB (The Movie Database).  Plays movie trailers utilizing Youtube. 
+
+React with hooks
+TMDB  API
+Axios
+react-youtube 
+movie-trailer
+Firebase for hosting and deployment 
+
+This app was created using Clever Programmer tutorials.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
