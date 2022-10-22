@@ -20,11 +20,6 @@ Demo app simulating Netflix.  Fetches data from TMDB (The Movie Database).  Play
 
  
 
-This app was created using [Clever Programmer tutorials](https://www.youtube.com/watch?v=XtMThy8QKqU&list=PL62sXWqKYsql9mmaVGRWdm-1NjPmm_sTe&index=5&t=474s).
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
